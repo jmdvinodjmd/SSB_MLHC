@@ -1,6 +1,6 @@
 # Complete Code for the Paper:
 
-Vinod Kumar Chauhan, L. Clifton, A. Salaun, Y. Lu, K. Branson, P. Schwab, G. Nigam and D. A. Clifton (2025) “Sample Selection Bias in Machine Learning for Healthcare”,  ACM Transactions on Computing for Healthcare (in press), preprint (https://arxiv.org/pdf/2405.07841?).
+Vinod Kumar Chauhan, L. Clifton, A. Salaun, Y. Lu, K. Branson, P. Schwab, G. Nigam and D. A. Clifton (2025) “Sample Selection Bias in Machine Learning for Healthcare”, **ACM Transactions on Computing for Healthcare** (in press), preprint (https://arxiv.org/pdf/2405.07841?).
 
 
 # Usage:
