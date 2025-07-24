@@ -1,0 +1,7 @@
+{
+    "selection_bias_data.pkl":"/data/Vinod/Data/datasets/SelectioinBias/data/selection_bias_data.pkl",
+    "diabetes_binary_5050split_health_indicators_BRFSS2015.csv":"/data/Vinod/Data/datasets/SelectioinBias/data/diabetes_binary_5050split_health_indicators_BRFSS2015.csv",
+    "diabetes_bias_data.pkl":"/data/Vinod/Data/datasets/SelectioinBias/data/diabetes_bias_data.pkl",
+    "covid_processed.csv":"/data/Vinod/Data/datasets/SelectioinBias/data/covid_processed.csv",
+    "covid_bias_data.pkl":"/data/Vinod/Data/datasets/SelectioinBias/data/covid_bias_data.pkl",
+}
